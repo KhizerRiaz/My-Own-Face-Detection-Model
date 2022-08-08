@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>S013-02-t10_01.jpg</filename>
+	<path>F:\python\Neural_Networks\Building Face Detection model\data\images\S013-02-t10_01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>115</ymin>
+			<xmax>632</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>
